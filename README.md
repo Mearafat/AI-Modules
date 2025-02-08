@@ -31,3 +31,7 @@ To install all packages, run:
 
 ```bash
 pip install pydantic pydantic-settings python-dotenv fastapi celery psycopg pymongo sqlalchemy alembic pandas instructor langchain llama-index pinecone-client weaviate-client quadrant pgvector langfuse langsmith dspy pymupdf py2pdf jinja2
+```
+
+### **To Use Diagram**
+ > https://n8n.io/
